@@ -11,11 +11,16 @@ public class RequestACT {
 
 
     public static String url = "我在测试3333";
+
     订单
 
   
 
     休息休息
+
+
+     我是第一进行添加
+    TTT 
 
     public static String urlImage = "http://img.zgduifubao.com/?";//
     public static String urlWebviewBaseUrl = "https://api.zgduifubao.com/";//
