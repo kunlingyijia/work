@@ -7,6 +7,7 @@ public class RequestACT {
 后的
     //    正式
     public static String url = "我在测试1919";
+    休息休息
     public static String urlImage = "http://img.zgduifubao.com/?";//
     public static String urlWebviewBaseUrl = "https://api.zgduifubao.com/";//
 //        测试
