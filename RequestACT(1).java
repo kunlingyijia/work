@@ -4,7 +4,7 @@ package com.gd.dfb.utils;
  * Created by z_fugui on 16/5/30.
  */
 public class RequestACT {
-
+后的
     //    正式
     public static String url = "我在测试2222";
     public static String urlImage = "http://img.zgduifubao.com/?";//
