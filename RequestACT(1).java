@@ -30,7 +30,7 @@ public class RequestACT {
 //    public static String urlImage = "http://dfb.dongwuit.com/?";
 
 
-
+我在这边写东西
     public static String requestCode = url + "act=Api/VerifyCode/requestVerifyCode";//请求验证码
     的点点滴滴
     public static String requestRegister = url + "act=Api/User/requestRegister";//注册
