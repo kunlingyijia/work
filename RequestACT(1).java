@@ -32,6 +32,7 @@ public class RequestACT {
 
 
     public static String requestCode = url + "act=Api/VerifyCode/requestVerifyCode";//请求验证码
+    的点点滴滴
     public static String requestRegister = url + "act=Api/User/requestRegister";//注册
     public static String requestLogin = url + "act=Api/User/requestLogin";//登录
     public static String ResetPwd = url + "act=Api/User/requestForgottenPassword";//修改密码
