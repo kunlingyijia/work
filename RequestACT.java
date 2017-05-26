@@ -4,7 +4,10 @@ package com.dw.bianmin.utils;
  * Created by z_fugui on 16/5/30.
  */
 public class RequestACT {
-我是
+
+握草
+
+
     //开发
     public static String url = "http://test.dongwuit.com/?";
     public static String urlImage = "http://test.dongwuit.com/?";//
