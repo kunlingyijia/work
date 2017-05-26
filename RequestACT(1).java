@@ -8,7 +8,7 @@ public class RequestACT {
     //    正式
 
     public static String url = "我在测试2222";
-
+     我是第一进行添加
     public static String urlImage = "http://img.zgduifubao.com/?";//
     public static String urlWebviewBaseUrl = "https://api.zgduifubao.com/";//
 //        测试
