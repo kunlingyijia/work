@@ -8,8 +8,11 @@ public class RequestACT {
     //    正式
 
 
+
     public static String url = "我在测试3333";
     订单
+
+  
     public static String urlImage = "http://img.zgduifubao.com/?";//
     public static String urlWebviewBaseUrl = "https://api.zgduifubao.com/";//
 //        测试
